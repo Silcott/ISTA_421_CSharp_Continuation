@@ -1,0 +1,13 @@
+C:\Github\repo\ISTA_421_CSharp_Continuation\quizzes\Quiz20_Delegates\bin\Debug\netcoreapp3.1\Quiz20_Delegates.exe
+C:\Github\repo\ISTA_421_CSharp_Continuation\quizzes\Quiz20_Delegates\bin\Debug\netcoreapp3.1\Quiz20_Delegates.deps.json
+C:\Github\repo\ISTA_421_CSharp_Continuation\quizzes\Quiz20_Delegates\bin\Debug\netcoreapp3.1\Quiz20_Delegates.runtimeconfig.json
+C:\Github\repo\ISTA_421_CSharp_Continuation\quizzes\Quiz20_Delegates\bin\Debug\netcoreapp3.1\Quiz20_Delegates.runtimeconfig.dev.json
+C:\Github\repo\ISTA_421_CSharp_Continuation\quizzes\Quiz20_Delegates\bin\Debug\netcoreapp3.1\Quiz20_Delegates.dll
+C:\Github\repo\ISTA_421_CSharp_Continuation\quizzes\Quiz20_Delegates\bin\Debug\netcoreapp3.1\Quiz20_Delegates.pdb
+C:\Github\repo\ISTA_421_CSharp_Continuation\quizzes\Quiz20_Delegates\obj\Debug\netcoreapp3.1\Quiz20_Delegates.csprojAssemblyReference.cache
+C:\Github\repo\ISTA_421_CSharp_Continuation\quizzes\Quiz20_Delegates\obj\Debug\netcoreapp3.1\Quiz20_Delegates.AssemblyInfoInputs.cache
+C:\Github\repo\ISTA_421_CSharp_Continuation\quizzes\Quiz20_Delegates\obj\Debug\netcoreapp3.1\Quiz20_Delegates.AssemblyInfo.cs
+C:\Github\repo\ISTA_421_CSharp_Continuation\quizzes\Quiz20_Delegates\obj\Debug\netcoreapp3.1\Quiz20_Delegates.csproj.CoreCompileInputs.cache
+C:\Github\repo\ISTA_421_CSharp_Continuation\quizzes\Quiz20_Delegates\obj\Debug\netcoreapp3.1\Quiz20_Delegates.dll
+C:\Github\repo\ISTA_421_CSharp_Continuation\quizzes\Quiz20_Delegates\obj\Debug\netcoreapp3.1\Quiz20_Delegates.pdb
+C:\Github\repo\ISTA_421_CSharp_Continuation\quizzes\Quiz20_Delegates\obj\Debug\netcoreapp3.1\Quiz20_Delegates.genruntimeconfig.cache
